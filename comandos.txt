@@ -1,0 +1,4 @@
+criar diretorio manualmente e executar o comando abaixo para criar o json default
+npm init -y
+npm run dev
+npm run dev -- -p 5000 especifica a porta do servidor
